@@ -1,7 +1,7 @@
 # Disease-Prediction
 AI-based system that analyzes user-entered symptoms and generates possible disease insights using natural language processing.
 
-🧠 Disease Prediction and Precaution System
+🧠 Disease Prediction System
 
 This project is an AI-based application designed to analyze symptoms provided by users in text form and generate possible disease insights along with general precautionary guidance.
 
