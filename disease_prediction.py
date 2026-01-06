@@ -7,7 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1aeveEE2-IJOfd6i-FUrQbS7AS-SthJcv
 """
 
-!pip install -q transformers datasets peft accelerate bitsandbytes scikit-learn matplotlib sentencepiece
 
 from google.colab import files
 
