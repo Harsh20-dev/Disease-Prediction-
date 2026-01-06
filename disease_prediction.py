@@ -9,11 +9,6 @@ Original file is located at
 import streamlit as st
 import pandas as pd
 import pickle
-from google.colab import files
-
-uploaded = files.upload()
-print(uploaded.keys())
-
 import zipfile, os
 import pandas as pd
 
